@@ -397,7 +397,7 @@ p {
   padding-left: 0;
   padding-right: 0;
   padding-top: 0;
-  margin-bottom: 1.45rem;
+  margin-bottom: 1rem;
 }
 pre {
   margin-left: 0;
@@ -595,3 +595,41 @@ pre tt:after {
     font-size: 100%;
   }
 }
+
+/* recipes index */
+
+.recipe-link {
+  display: flex;
+  align-items: center;
+  position: relative;
+  border: 1px solid darkgray;
+  border-radius: 4px;
+  margin-bottom: 24px;
+}
+
+.recipe-link a {
+  padding-left: 24px;
+  color: black;
+  border: 1
+}
+
+.recipe-link a::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+}
+
+/* recipe detail */
+
+.recipe-container {
+  padding: 32px;
+}
+
+.recipe-container .featured-image {
+  height: 400px;
+  margin-bottom: 32px;
+}
+
