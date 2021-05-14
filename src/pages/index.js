@@ -1,7 +1,7 @@
 import React from "react"
 import { graphql } from "gatsby"
 import RecipeLink from "../components/RecipeLink"
-import Layout from '../components/Layout';
+import Layout from '../components/layout'
 
 const IndexPage = ({
   data: {
@@ -14,9 +14,7 @@ const IndexPage = ({
 
   return (
     <Layout>
-      <div className="recipes-index">
-        {Recipes}
-      </div>
+      <div className="recipes-index">{Recipes}</div>
     </Layout>
   );
 }
