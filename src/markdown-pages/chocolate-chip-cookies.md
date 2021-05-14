@@ -2,6 +2,7 @@
 slug: "/recipes/chocolate-chip-cookies"
 date: "2021-05-09"
 title: "Chocolate Chip Cookies"
+mealType: "dessert"
 ---
 
 ## About the recipe

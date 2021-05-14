@@ -1,6 +1,7 @@
 import React from "react"
 import { graphql } from "gatsby"
 import Img from "gatsby-image"
+import Layout from '../components/layout';
 
 export default function Template({
   data, // this prop will be injected by the GraphQL query below.
@@ -10,17 +11,18 @@ export default function Template({
   const featuredImgFluid = frontmatter.featuredImage?.childImageSharp?.fluid;
 
   return (
-    <div className="recipe-container">
-      <div className="recipe">
-        <h1>{frontmatter.title}</h1>
-        {/* <h2>{frontmatter.date}</h2> */}
-        {featuredImgFluid && <Img fluid={featuredImgFluid} className="featured-image" />}
-        <div
-          className="recipe-content"
-          dangerouslySetInnerHTML={{ __html: html }}
-        />
+    <Layout>
+      <div className="recipe-container">
+        <div className="recipe">
+          <h1>{frontmatter.title}</h1>
+          {featuredImgFluid && <Img fluid={featuredImgFluid} className="featured-image" />}
+          <div
+            className="recipe-content"
+            dangerouslySetInnerHTML={{ __html: html }}
+          />
+        </div>
       </div>
-    </div>
+    </Layout>
   )
 }
 

@@ -624,10 +624,6 @@ pre tt:after {
 
 /* recipe detail */
 
-.recipe-container {
-  padding: 32px;
-}
-
 .recipe-container .featured-image {
   height: 400px;
   margin-bottom: 32px;
