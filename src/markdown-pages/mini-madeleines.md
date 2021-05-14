@@ -2,6 +2,7 @@
 slug: "/recipes/mini-madeleines"
 date: "2021-05-09"
 title: "Mini Madeleines"
+mealType: "dessert"
 ---
 
 ## About the recipe

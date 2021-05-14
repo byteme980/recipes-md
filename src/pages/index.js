@@ -1,20 +1,50 @@
-import React from "react"
+import React, { useMemo } from "react"
 import { graphql } from "gatsby"
 import RecipeLink from "../components/RecipeLink"
 import Layout from '../components/layout'
+
+  
 
 const IndexPage = ({
   data: {
     allMarkdownRemark: { edges },
   },
 }) => {
-  const Recipes = edges
-    .filter(edge => !!edge.node.frontmatter.date) // You can filter your posts based on some criteria
-    .map(edge => <RecipeLink key={edge.node.id} recipe={edge.node} />)
+  const recipesByType = useMemo(() => {
+    const map = {
+      dinner: [],
+      dessert: [],
+      breakfast: [],
+      lunch: [],
+    };
+    edges.forEach((edge) => {
+      const mealType =
+        edge.node.frontmatter.mealType;
+
+      if (!Object.keys(map).includes(mealType)) {
+        console.error(`unknown mealType for recipe ${edge.node.frontmatter.mealType}`);
+        return;
+      }
+
+      map[mealType].push(edge);
+    });
+    return map;
+  }, [edges]);
+
+  const recipeTypesToRender = Object.keys(recipesByType).filter((type) => recipesByType[type].length > 0);
 
   return (
     <Layout>
-      <div className="recipes-index">{Recipes}</div>
+      <div className="recipes-index">{recipeTypesToRender.map((mealType) => {
+        return (
+          <section key={mealType}>
+            <h2>{mealType}</h2>
+            {recipesByType[mealType].map((edge) => (
+              <RecipeLink key={edge.node.id} recipe={edge.node} />
+            ))}
+          </section>
+        )
+      })}</div>
     </Layout>
   );
 }
@@ -32,6 +62,7 @@ export const pageQuery = graphql`
             date(formatString: "MMMM DD, YYYY")
             slug
             title
+            mealType
             featuredImage {
               childImageSharp {
                 fixed(width: 125, height: 125) {

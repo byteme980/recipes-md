@@ -2,6 +2,7 @@
 slug: "/recipes/chicken-salsa-tacos"
 date: "2021-05-09"
 title: "Chicken Salsa Tacos"
+mealType: "dinner"
 ---
 
 ## About the recipe

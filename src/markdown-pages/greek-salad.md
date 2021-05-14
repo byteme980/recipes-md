@@ -2,6 +2,7 @@
 slug: "/recipes/greek-salad"
 date: "2021-05-09"
 title: "Greek salad"
+mealType: "dinner"
 ---
 
 ## About the recipe
