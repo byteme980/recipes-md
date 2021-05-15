@@ -2,7 +2,7 @@ module.exports = {
   pathPrefix: 'recipes-md',
   siteMetadata: {
     title: `Recipes`,
-    description: 'Our favorite recipes',
+    description: 'Kim and Phil’s favorite recipes',
     author: `Kim + Phil`,
   },
   plugins: [
