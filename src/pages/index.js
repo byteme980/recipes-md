@@ -12,10 +12,11 @@ const IndexPage = ({
 }) => {
   const recipesByType = useMemo(() => {
     const map = {
-      dinner: [],
-      dessert: [],
       breakfast: [],
       lunch: [],
+      dinner: [],
+      snacks: [],
+      dessert: [],
     };
     edges.forEach((edge) => {
       const mealType =
