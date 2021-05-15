@@ -1,4 +1,5 @@
 module.exports = {
+  pathPrefix: 'recipes-md',
   siteMetadata: {
     title: `Recipes`,
     description: 'Our favorite recipes',
