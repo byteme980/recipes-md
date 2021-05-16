@@ -2,7 +2,7 @@ module.exports = {
   pathPrefix: 'recipes-md',
   siteMetadata: {
     title: `Recipes`,
-    description: 'Our favorite recipes',
+    description: 'Kim and Phil’s favorite recipes',
     author: `Kim + Phil`,
   },
   plugins: [
@@ -34,7 +34,7 @@ module.exports = {
         background_color: `#663399`,
         theme_color: `#663399`,
         display: `minimal-ui`,
-        icon: `src/images/gatsby-icon.png`, // This path is relative to the root of the site.
+        icon: `src/images/tomato-icon.png`, // This path is relative to the root of the site.
       },
     },
     `gatsby-plugin-gatsby-cloud`,

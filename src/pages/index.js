@@ -2,8 +2,8 @@ import React, { useMemo } from "react"
 import { graphql } from "gatsby"
 import RecipeLink from "../components/RecipeLink"
 import Layout from '../components/layout'
+import SEO from '../components/seo';
 
-  
 
 const IndexPage = ({
   data: {
@@ -36,6 +36,7 @@ const IndexPage = ({
 
   return (
     <Layout>
+      <SEO title="All recipes" />
       <div className="recipes-index">{recipeTypesToRender.map((mealType) => {
         return (
           <section key={mealType}>
