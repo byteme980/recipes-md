@@ -622,10 +622,18 @@ pre tt:after {
   bottom: 0;
 }
 
+.recipe-link img {
+  width: 200px;
+  height: 123px;
+  margin-bottom: 0;
+  object-fit: cover;
+}
+
 /* recipe detail */
 
 .recipe-container .featured-image {
   height: 400px;
+  width: 100%;
+  object-fit: cover;
   margin-bottom: 32px;
 }
-
