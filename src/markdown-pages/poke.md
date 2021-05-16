@@ -3,6 +3,7 @@ slug: "/recipes/poke"
 date: "2021-05-14"
 title: "Poke"
 mealType: "dinner"
+imageUrl: "https://recipes-md.s3.amazonaws.com/images/poke.jpeg"
 ---
 
 ## About the recipe

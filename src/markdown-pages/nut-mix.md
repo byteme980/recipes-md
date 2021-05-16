@@ -3,6 +3,7 @@ slug: "/recipes/nut-mix"
 date: "2021-05-14"
 title: "Nut mix"
 mealType: "snacks"
+imageUrl: "https://recipes-md.s3.amazonaws.com/images/nut-mix.jpeg"
 ---
 
 ## About the recipe

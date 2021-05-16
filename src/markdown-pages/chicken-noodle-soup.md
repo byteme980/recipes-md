@@ -3,6 +3,7 @@ slug: "/recipes/chicken-noodle-soup"
 date: "2021-05-14"
 title: "Chicken noodle soup"
 mealType: "lunch"
+imageUrl: "https://recipes-md.s3.amazonaws.com/images/chicken-noodle-soup.jpeg"
 ---
 
 ## About the recipe

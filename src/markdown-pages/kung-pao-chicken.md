@@ -2,8 +2,8 @@
 slug: "/recipes/kung-pao-chicken"
 date: "2019-05-04"
 title: "Kenji Kung Pao Chicken"
-featuredImage: ../images/kung-pao.webp
 mealType: "dinner"
+imageUrl: "https://recipes-md.s3.amazonaws.com/images/kung-pao-chicken.jpg"
 ---
 
 ## About the recipe
