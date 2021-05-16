@@ -1,6 +1,5 @@
 import React from "react"
 import { graphql } from "gatsby"
-import Img from "gatsby-image"
 import Layout from '../components/layout'
 import SEO from '../components/seo'
 
@@ -9,7 +8,7 @@ export default function Template({
 }) {
   const { markdownRemark } = data // data.markdownRemark holds our post data
   const { frontmatter, html } = markdownRemark
-  const featuredImgFluid = frontmatter.featuredImage?.childImageSharp?.fluid;
+  const { imageUrl } = frontmatter;
 
   return (
     <Layout>
@@ -17,7 +16,7 @@ export default function Template({
       <div className="recipe-container">
         <div className="recipe">
           <h1>{frontmatter.title}</h1>
-          {featuredImgFluid && <Img fluid={featuredImgFluid} className="featured-image" />}
+          {imageUrl && <img src={imageUrl} className="featured-image" />}
           <div
             className="recipe-content"
             dangerouslySetInnerHTML={{ __html: html }}
@@ -36,13 +35,7 @@ export const pageQuery = graphql`
         date(formatString: "MMMM DD, YYYY")
         slug
         title
-        featuredImage {
-          childImageSharp {
-            fluid(maxWidth: 800) {
-              ...GatsbyImageSharpFluid
-            }
-          }
-        }
+        imageUrl
       }
     }
   }

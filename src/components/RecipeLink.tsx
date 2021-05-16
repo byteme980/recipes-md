@@ -4,7 +4,7 @@ import Img from "gatsby-image"
 
 const RecipeLink = ({ recipe }) => (
   <div className="recipe-link">
-    {recipe.frontmatter.featuredImage?.childImageSharp?.fixed && <Img fixed={recipe.frontmatter.featuredImage.childImageSharp.fixed} className="featured-image" />}
+    {recipe.frontmatter.imageUrl && <img src={recipe.frontmatter.imageUrl} />}
     <Link to={recipe.frontmatter.slug}>
       {recipe.frontmatter.title}
     </Link>

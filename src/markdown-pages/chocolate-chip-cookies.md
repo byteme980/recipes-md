@@ -3,6 +3,7 @@ slug: "/recipes/chocolate-chip-cookies"
 date: "2021-05-09"
 title: "Chocolate Chip Cookies"
 mealType: "dessert"
+imageUrl: "https://recipes-md.s3.amazonaws.com/images/chocolate-chip-cookies.jpeg"
 ---
 
 ## About the recipe

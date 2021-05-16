@@ -3,6 +3,7 @@ slug: "/recipes/breakfast-sandwiches"
 date: "2021-05-14"
 title: "Breakfast sandwiches"
 mealType: "breakfast"
+imageUrl: "https://recipes-md.s3.amazonaws.com/images/breakfast-sandwiches.jpeg"
 ---
 
 ## About the recipe

@@ -3,6 +3,7 @@ slug: "/recipes/chicken-piccata"
 date: "2021-05-14"
 title: "Chicken piccata with rice and greens"
 mealType: "dinner"
+imageUrl: "https://recipes-md.s3.amazonaws.com/images/chicken-piccata.jpeg"
 ---
 
 ## About the recipe

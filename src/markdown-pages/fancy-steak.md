@@ -3,6 +3,7 @@ slug: "/recipes/fancy-steak"
 date: "2021-05-14"
 title: "Sous Vide Steak, Asparagus, And Roasted Potatoes"
 mealType: "dinner"
+imageUrl: "https://recipes-md.s3.amazonaws.com/images/fancy-steak.jpeg"
 ---
 
 ## About the recipe

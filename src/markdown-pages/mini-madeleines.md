@@ -3,6 +3,7 @@ slug: "/recipes/mini-madeleines"
 date: "2021-05-09"
 title: "Mini Madeleines"
 mealType: "dessert"
+imageUrl: "https://recipes-md.s3.amazonaws.com/images/mini-madeleines.png"
 ---
 
 ## About the recipe

@@ -3,6 +3,7 @@ slug: "/recipes/thai-fried-rice"
 date: "2021-05-14"
 title: "Thai chicken fried rice"
 mealType: "dinner"
+imageUrl: "https://recipes-md.s3.amazonaws.com/images/thai-fried-rice.jpeg"
 ---
 
 ## About the recipe

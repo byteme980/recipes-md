@@ -4,7 +4,6 @@ import RecipeLink from "../components/RecipeLink"
 import Layout from '../components/layout'
 import SEO from '../components/seo';
 
-
 const IndexPage = ({
   data: {
     allMarkdownRemark: { edges },
@@ -65,13 +64,7 @@ export const pageQuery = graphql`
             slug
             title
             mealType
-            featuredImage {
-              childImageSharp {
-                fixed(width: 125, height: 125) {
-                  ...GatsbyImageSharpFixed
-                }
-              }
-            }
+            imageUrl
           }
         }
       }

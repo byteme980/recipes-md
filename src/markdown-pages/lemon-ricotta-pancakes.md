@@ -3,6 +3,7 @@ slug: "/recipes/lemon-ricotta-pancakes"
 date: "2021-05-14"
 title: "Lemon ricotta pancakes"
 mealType: "breakfast"
+imageUrl: "https://recipes-md.s3.amazonaws.com/images/lemon-ricotta-pancakes.jpeg"
 ---
 
 ## About the recipe

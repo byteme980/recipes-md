@@ -3,6 +3,7 @@ slug: "/recipes/pastel-de-nata"
 date: "2021-05-14"
 title: "Pastel de nata"
 mealType: "dessert"
+imageUrl: "https://recipes-md.s3.amazonaws.com/images/pastel-de-nata.jpeg"
 ---
 
 ## About the recipe
