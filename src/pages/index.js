@@ -65,13 +65,6 @@ export const pageQuery = graphql`
             title
             mealType
             imageUrl
-            featuredImage {
-              childImageSharp {
-                fixed(width: 125, height: 125) {
-                  ...GatsbyImageSharpFixed
-                }
-              }
-            }
           }
         }
       }
