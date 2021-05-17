@@ -1,7 +1,7 @@
-import React, { useMemo } from "react"
-import { graphql } from "gatsby"
-import RecipeLink from "../components/RecipeLink"
-import Layout from '../components/layout'
+import React, { useMemo } from 'react';
+import { graphql } from 'gatsby';
+import RecipeLink from '../components/RecipeLink';
+import Layout from '../components/layout';
 import SEO from '../components/seo';
 
 const IndexPage = ({
@@ -18,11 +18,12 @@ const IndexPage = ({
       dessert: [],
     };
     edges.forEach((edge) => {
-      const mealType =
-        edge.node.frontmatter.mealType;
+      const mealType = edge.node.frontmatter.mealType;
 
       if (!Object.keys(map).includes(mealType)) {
-        console.error(`unknown mealType for recipe ${edge.node.frontmatter.mealType}`);
+        console.error(
+          `unknown mealType for recipe ${edge.node.frontmatter.mealType}`
+        );
         return;
       }
 
@@ -31,26 +32,30 @@ const IndexPage = ({
     return map;
   }, [edges]);
 
-  const recipeTypesToRender = Object.keys(recipesByType).filter((type) => recipesByType[type].length > 0);
+  const recipeTypesToRender = Object.keys(recipesByType).filter(
+    (type) => recipesByType[type].length > 0
+  );
 
   return (
     <Layout>
       <SEO title="All recipes" />
-      <div className="recipes-index">{recipeTypesToRender.map((mealType) => {
-        return (
-          <section key={mealType}>
-            <h2>{mealType}</h2>
-            {recipesByType[mealType].map((edge) => (
-              <RecipeLink key={edge.node.id} recipe={edge.node} />
-            ))}
-          </section>
-        )
-      })}</div>
+      <div className="recipes-index">
+        {recipeTypesToRender.map((mealType) => {
+          return (
+            <section key={mealType}>
+              <h2>{mealType}</h2>
+              {recipesByType[mealType].map((edge) => (
+                <RecipeLink key={edge.node.id} recipe={edge.node} />
+              ))}
+            </section>
+          );
+        })}
+      </div>
     </Layout>
   );
-}
+};
 
-export default IndexPage
+export default IndexPage;
 
 export const pageQuery = graphql`
   query {
@@ -70,4 +75,4 @@ export const pageQuery = graphql`
       }
     }
   }
-`
+`;
