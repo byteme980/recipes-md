@@ -1,7 +1,7 @@
 exports.createPages = ({ actions, graphql }) => {
-  const { createPage } = actions
+  const { createPage } = actions;
 
-  const recipeTemplate = require.resolve(`./src/templates/recipeTemplate.tsx`)
+  const recipeTemplate = require.resolve('./src/templates/recipeTemplate.tsx');
 
   return graphql(`
     {
@@ -18,9 +18,9 @@ exports.createPages = ({ actions, graphql }) => {
         }
       }
     }
-  `).then(result => {
+  `).then((result) => {
     if (result.errors) {
-      return Promise.reject(result.errors)
+      return Promise.reject(result.errors);
     }
 
     return result.data.allMarkdownRemark.edges.forEach(({ node }) => {
@@ -31,7 +31,7 @@ exports.createPages = ({ actions, graphql }) => {
           // additional data can be passed via context
           slug: node.frontmatter.slug,
         },
-      })
-    })
-  })
-}
+      });
+    });
+  });
+};
