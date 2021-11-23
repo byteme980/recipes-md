@@ -41,4 +41,4 @@ After pasta is done cooking, drain and leave in colander.
 
 In pasta pot, place cherry tomatoes and chicken sausage. Heat for a minute on high until tomatoes start to get soft. Add spinach and place lid on pot until spinach just starts to wilt.
 
-Add pasta and broccoli and, pesto. Stir until everything is coated evenly. Serve with grated Parmesan.
+Add pasta, broccoli, and pesto. Stir until everything is coated evenly. Serve with grated Parmesan.
