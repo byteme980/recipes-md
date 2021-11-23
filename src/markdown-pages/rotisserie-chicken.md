@@ -28,11 +28,11 @@ Source: [dadcooksdinner.com](https://www.dadcooksdinner.com/grill-roasted-or-rot
 
 ## Steps
 
-- Pre-heat grill for 10 minutes on high
+- Pre-heat grill for 10 minutes on high.
 
 - Cut up veggies in 1 inch chunks. Place into a large drip tray. Mix with olive oil and camp salt.
 
-- Prep chicken by tying it up, spearing it with the rotisserie stick. Olive oil and camp salt over sink
+- Prep chicken by tying it up, spearing it with the rotisserie stick. Coat with olive oil and camp salt over sink.
 
 - Put chicken on rotisserie grill. Center burners off, rotisserie burner off and side burners on medium. Place drip tray with veggies under bird. Let run for 60 minutes. Stir vegetables halfway through.
 
