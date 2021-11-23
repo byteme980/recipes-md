@@ -23,8 +23,8 @@ Source: [dadcooksdinner.com](https://www.dadcooksdinner.com/grill-roasted-or-rot
 - 3 carrots
 - 3 medium yellow potatoes
 - 4 cloves of garlic
-- olive oil
-- camp salt
+- Olive oil
+- Camp salt
 
 ## Steps
 
