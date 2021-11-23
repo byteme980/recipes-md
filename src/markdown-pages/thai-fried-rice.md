@@ -37,11 +37,6 @@ Source: amalgamation of google searches
 
 _Note: If you don’t have a huge wok, then use two pans for cooking. After adding rice/all ingredients and mixing, split and transfer to finish cooking_
 
-1. Slice up some tomates and get the spinache ready to go
-2. Do that turkey bacon
-3. Once the turk is done, cook the eggs in the same pan as the bacon was just in. less pans -> less clean up
-4. Assemble
-
 ### Cook the rice
 
 _do this ahead of time_
