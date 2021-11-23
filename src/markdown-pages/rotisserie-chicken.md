@@ -16,7 +16,7 @@ Source: [dadcooksdinner.com](https://www.dadcooksdinner.com/grill-roasted-or-rot
 
 ## Ingredients
 
-- 1 rotisserie chicken
+- 1 whole chicken
 - 1 tube of Pillsbury dinner rolls
 - 1 onion
 - 3 beet roots
