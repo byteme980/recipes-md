@@ -21,8 +21,8 @@ Rice pilaf, roasted broccoli
 ## Ingredients
 
 - 2 tablespoons olive oil
-- Garlic powder
-- Onion powder
+- garlic powder
+- onion powder
 - red pepper flakes
 - paprika
 - salt

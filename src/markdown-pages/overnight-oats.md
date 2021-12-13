@@ -10,7 +10,7 @@ imageUrl: "https://recipes-md.s3.amazonaws.com/images/no-image-placeholder.svg"
 
 Serves 1
 
-Total time: 15 mins (15 mins active, 12 hours inactive)
+Total time: 15 mins active, 12 hours inactive
 
 Source: [culinaryhill.com](https://www.culinaryhill.com/turkey-meatballs/)
 
@@ -27,4 +27,6 @@ Bananas, berries, peanut butter, cocoa powder, cinnamon, walnuts, pecans, sliced
 
 ## Steps
 
-Mix ingredients in a pint sized mason jar. Seal and put it in the fridge overnight.
+Mix ingredients in a pint-sized mason jar. Seal and put it in the fridge overnight.
+
+Eat cold, or warm up in the microwave for 1 min before eating.

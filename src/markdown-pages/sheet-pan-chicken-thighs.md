@@ -33,10 +33,10 @@ dinner rolls, rice pilaf, brown rice, roasted potatoes
 
 ## Steps
 
-To marinate the chicken, put the chicken thighs to a large bowl. Then add olive oil, Italian seasoning, salt, pepper, lemon juice, and dijon mustard and mix to coat. Let sit while preparing the other ingredients.
+To marinate the chicken, put the chicken thighs into a large bowl. Then add olive oil, Italian seasoning, salt, pepper, lemon juice, and dijon mustard and mix to coat. Let sit while preparing the other ingredients.
 
 Place trimmed and halved brussels sprouts on a sheet pan, followed by red onion, and garlic cloves.
 
 Drizzle with olive oil, and season with salt and pepper. Toss so that everything is well coated.
 
-Place marinated chicken thighs skin side up on the sheet pan. Bake uncovered at 400ºF. If bone-in for 30 minutes, otherwise, 25 minutes. Then crisp the skin up and brown it under the broiler for a few minutes.
+Place marinated chicken thighs skin side up on the sheet pan. Bake uncovered at 400ºF for 30 minutes if bone-in, 25 minutes otherwise. Then crisp the skin up and brown it under the broiler for a few minutes.

@@ -36,8 +36,8 @@ Chop potatoes into 1/2 inch cubes. Cover and microwave for 3 minutes.
 
 Get a cast iron pan started heating up with a couple tablespoons of oil.
 
-When potatoes are done in the mic, pop them in the cast iron pan and let them browned on multiple sides without too much stirring (~5 minutes).
+When potatoes are done in the mic, pop them in the cast iron pan and let them brown on multiple sides without too much stirring (~5 minutes).
 
 Chop peppers and onions. When it is time, place them into the hash. Add spices. Cook until finished.
 
-While that is going, prepare your eggs any way you want
+While that is going, prepare your eggs any way you want.

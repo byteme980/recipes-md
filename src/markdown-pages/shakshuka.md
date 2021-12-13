@@ -37,7 +37,7 @@ Pita chips, hearty white toast
 
 Heat oven to 375 degrees.
 
-Heat oil in a large skillet over medium-low. Add onion and bell pepper. Cook gently until  soft, about 10 minutes.
+Heat oil in a large skillet over medium-low. Add onion and bell pepper. Cook gently until soft, about 10 minutes.
 
 Add garlic, cumin, paprika and cayenne, and cook 1 minute.
 

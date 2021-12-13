@@ -12,14 +12,14 @@ Serves 3
 
 Total time: 15 mins (15 mins active, 1 hour inactive)
 
-Source: [Chef John, Food Whishes dot com](https://www.allrecipes.com/recipe/278876/spicy-tuna-rice-bowl/), [youtube.com](https://www.youtube.com/watch?v=gGHlAdr23lM)
+Source: [Chef John, Food Wishes dot com](https://www.allrecipes.com/recipe/278876/spicy-tuna-rice-bowl/), [youtube.com](https://www.youtube.com/watch?v=gGHlAdr23lM)
 
 ## Ingredients
 
 - 1 cup uncooked long-grain rice
 - 2 cans of tuna
 - red bell pepper
-- jalapeno pepper
+- jalapeño pepper
 - green onions
 - 1/3 cup seasoned rice vinegar
 - 2 tablespoons soy sauce

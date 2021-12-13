@@ -42,4 +42,4 @@ Stir in cranberries and nuts.
 
 Spoon into a greased 9x5x3-inch loaf pan. Bake at 350ºF for 60 to 70 minutes or until a toothpick inserted in center comes out clean.
 
-Cool bread in pan 10 to 15 minutes.
+Cool bread in pan 10 to 15 minutes before serving.
