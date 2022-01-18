@@ -47,4 +47,4 @@ In same pan, cook onion, garlic, peppers, celery until soft. ~5 minutes. Transfe
 
 Deglaze pan with tomatoes and/or chicken broth. Transfer to slow cooker dish.
 
-Add drained beans and spiced to slow cooker. Cook on high for 4 hours. Serve.
+Add drained beans and spices to slow cooker. Cook on high for 4 hours. Serve.
