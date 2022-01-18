@@ -10,7 +10,7 @@ imageUrl: "https://recipes-md.s3.amazonaws.com/images/no-image-placeholder.svg"
 
 Serves 8
 
-Total time: 4h30m (30 mins active, 4 hour inactive)
+Total time: 4h30m (30 mins active, 4 hours inactive)
 
 Source: Mix of [NYT Cooking](https://cooking.nytimes.com/recipes/7985-turkey-chili) and [delish.com](https://www.delish.com/cooking/recipe-ideas/recipes/a55200/easy-turkey-slow-cooker-chili-recipe/)
 
