@@ -1,7 +1,7 @@
 ---
 slug: "/recipes/sheet-pan-chicken-thighs"
 date: "2021-12-12"
-title: "Sheet pan chicken thighs"
+title: "Sheet pan chicken thighs with brussels sprouts and onion"
 mealType: "dinner"
 imageUrl: "https://recipes-md.s3.amazonaws.com/images/no-image-placeholder.svg"
 ---
