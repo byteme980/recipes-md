@@ -20,7 +20,7 @@ Caesar salad
 
 ## Ingredients
 
-- olive oil
+- Olive oil
 - 2 tablespoons plus 2 teaspoons sherry vinegar
 - 2 teaspoons honey
 - 1 teaspoon Dijon mustard
@@ -37,13 +37,13 @@ Caesar salad
 
 Set a pot of water to boil.
 
-In a large mixing bowl, combine 2 tablespoons oil, 2 tablespoons vinegar, the honey, mustard, red-pepper flakes and 1 teaspoon salt; whisk until smooth. Pat the chicken dry and season with salt and pepper, then add to the mixture, coating it well.
+In a large mixing bowl, combine 2 tablespoons of oil, 2 tablespoons of vinegar, the honey, mustard, red-pepper flakes and 1 teaspoon of salt; whisk until smooth. Pat the chicken dry and season with salt and pepper, then add to the mixture, coating it well.
 
 Heat a 12-inch cast-iron over medium-high until very hot, ~2 minutes. Add the onions in an even layer. Season with salt, then cook, mostly undisturbed, for 4 minutes more, stirring every minute or so.
 
 Add the mushrooms, season with salt, and stir to combine. Allow to cook mostly undisturbed until the mushrooms shrink and start to brown, about 4 minutes, stirring every minute or so.
 
-Stir in  3 tablespoons olive oil and allow the onions to cook until they start to color, stirring and lowering the heat as necessary to avoid burning, about 2 minutes.
+Stir in  3 tablespoons of olive oil and allow the onions to cook until they start to color, stirring and lowering the heat as necessary to avoid burning, about 2 minutes.
 
 Push the onions and mushrooms to the edges of the skillet, then add the chicken pieces to the center. Cook undisturbed for 4 to 5 minutes.
 
@@ -51,6 +51,6 @@ Combine the chicken and vegetables and cook, stirring occasionally, until the ch
 
 Put the pasta in to cook now.
 
-Add 2 teaspoons sherry vinegar and handful of spinach so it begins to wilt. Stir and scrape up anything on the bottom of the skillet. Season to taste with salt.
+Add 2 teaspoons of sherry vinegar and a handful of spinach so it begins to wilt. Stir and scrape up anything on the bottom of the skillet. Season to taste with salt.
 
-Remove from the heat and top with the parsley and cheese. Serve with bread or pasta.
+Remove the skillet from heat and top with the parsley and cheese. Serve with bread or pasta.
