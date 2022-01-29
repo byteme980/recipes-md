@@ -39,7 +39,7 @@ Set a pot of water to boil.
 
 In a large mixing bowl, combine 2 tablespoons of oil, 2 tablespoons of vinegar, the honey, mustard, red-pepper flakes and 1 teaspoon of salt; whisk until smooth. Pat the chicken dry and season with salt and pepper, then add to the mixture, coating it well.
 
-Heat a 12-inch cast-iron over medium-high until very hot, ~2 minutes. Add the onions in an even layer. Season with salt, then cook, mostly undisturbed, for 4 minutes more, stirring every minute or so.
+Heat a 12-inch cast-iron skillet over medium-high until very hot, ~2 minutes. Add the onions in an even layer. Season with salt, then cook, mostly undisturbed, for 4 minutes more, stirring every minute or so.
 
 Add the mushrooms, season with salt, and stir to combine. Allow to cook mostly undisturbed until the mushrooms shrink and start to brown, about 4 minutes, stirring every minute or so.
 
