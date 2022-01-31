@@ -41,7 +41,7 @@ Source: [www.closetcooking.com](https://www.closetcooking.com/slow-cooker-thai-b
 
 ## Steps
 
-Place everything but leaves in slow cooker and cook on low for 8 hours, or high for 3 hours
+Place everything but leaves in slow cooker and cook on low for 8 hours, or high for 3 hours.
 
 1 hour before chicken is done cooking, put rice on to cook.
 
