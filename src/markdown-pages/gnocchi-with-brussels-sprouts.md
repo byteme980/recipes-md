@@ -2,7 +2,7 @@
 slug: "/recipes/gnocchi-with-brussels-sprouts"
 date: "2022-01-28"
 title: "Crisp gnocchi with Brussels sprouts and brown butter"
-mealType: "Dinner"
+mealType: "dinner"
 imageUrl: "https://recipes-md.s3.amazonaws.com/images/no-image-placeholder.svg"
 ---
 
