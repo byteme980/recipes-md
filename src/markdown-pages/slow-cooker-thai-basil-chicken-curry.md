@@ -31,7 +31,7 @@ Source: [www.closetcooking.com](https://www.closetcooking.com/slow-cooker-thai-b
 - 1 tablespoon lime juice (or rice vinegar)
 - 1 tablespoon brown sugar
 - 1 onion, diced
-- 1 jalapeno, diced
+- 1 jalapeño, diced
 - 4 cloves garlic, chopped
 - 1 tablespoon ginger, grated
 - 1/2 teaspoon salt
