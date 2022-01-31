@@ -1,6 +1,6 @@
-˜---
+---
 slug: "/recipes/slow-cooker-thai-basil-chicken-curry"
-date: "2021-05-14"
+date: "2022-01-30"
 title: "Slow cooker thai basil chicken curry"
 mealType: "dinner"
 imageUrl: "https://recipes-md.s3.amazonaws.com/images/no-image-placeholder.svg"
