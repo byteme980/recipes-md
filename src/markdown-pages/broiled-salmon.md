@@ -3,7 +3,7 @@ slug: "/recipes/broiled-salmon"
 date: "2021-12-12"
 title: "Broiled Salmon"
 mealType: "dinner"
-imageUrl: "https://recipes-md.s3.amazonaws.com/images/no-image-placeholder.svg"
+imageUrl: "https://recipes-md.s3.amazonaws.com/images/broiled-salmon.jpeg"
 ---
 
 ## About the recipe
