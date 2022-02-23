@@ -3,7 +3,7 @@ slug: "/recipes/shakshuka"
 date: "2021-12-12"
 title: "Shakshuka with feta"
 mealType: "breakfast"
-imageUrl: "https://recipes-md.s3.amazonaws.com/images/no-image-placeholder.svg"
+imageUrl: "https://recipes-md.s3.amazonaws.com/images/shakshuka.jpeg"
 ---
 
 ## About the recipe

@@ -3,7 +3,7 @@ slug: "/recipes/slow-cooker-bbq-beef-brisket"
 date: "2021-12-13"
 title: "Slow cooker BBQ beef brisket"
 mealType: "dinner"
-imageUrl: "https://recipes-md.s3.amazonaws.com/images/no-image-placeholder.svg"
+imageUrl: "https://recipes-md.s3.amazonaws.com/images/slow-cooker-bbq-beef-brisket.jpeg"
 ---
 
 ## About the recipe

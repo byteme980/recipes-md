@@ -3,7 +3,7 @@ slug: "/recipes/overnight-oats"
 date: "2021-12-12"
 title: "Overnight oats"
 mealType: "breakfast"
-imageUrl: "https://recipes-md.s3.amazonaws.com/images/no-image-placeholder.svg"
+imageUrl: "https://recipes-md.s3.amazonaws.com/images/overnight-oats.jpeg"
 ---
 
 ## About the recipe

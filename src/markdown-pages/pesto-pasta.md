@@ -3,7 +3,7 @@ slug: "/recipes/pesto-pasta"
 date: "2021-11-22"
 title: "Pesto pasta with veggies and chicken sausage"
 mealType: "dinner"
-imageUrl: "https://recipes-md.s3.amazonaws.com/images/no-image-placeholder.svg"
+imageUrl: "https://recipes-md.s3.amazonaws.com/images/pesto-pasta.jpeg"
 ---
 
 ## About the recipe

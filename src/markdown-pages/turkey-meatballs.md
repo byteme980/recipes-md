@@ -3,7 +3,7 @@ slug: "/recipes/turkey-meatballs"
 date: "2021-12-12"
 title: "Turkey meatballs"
 mealType: "dinner"
-imageUrl: "https://recipes-md.s3.amazonaws.com/images/no-image-placeholder.svg"
+imageUrl: "https://recipes-md.s3.amazonaws.com/images/turkey-meatballs.jpeg"
 ---
 
 ## About the recipe
