@@ -609,8 +609,8 @@ pre tt:after {
 
 .recipe-link a {
   padding-left: 24px;
+  padding-right: 8px;
   color: black;
-  border: 1
 }
 
 .recipe-link a::before {
@@ -624,7 +624,8 @@ pre tt:after {
 
 .recipe-link img {
   width: 200px;
-  height: 123px;
+  height: 132px;
+  flex-shrink: 0;
   margin-bottom: 0;
   object-fit: cover;
 }
